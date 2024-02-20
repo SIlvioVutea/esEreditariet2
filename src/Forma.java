@@ -1,3 +1,5 @@
-public class Shape {
-    public double
+public class Forma {
+    public double calcolaArea() {
+        return 0;
+    }
 }
